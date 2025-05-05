@@ -1,42 +1,11 @@
 {
-    "name": "NOVARIC",
-    "website": "https://novaric.co/",
-    "description": "NOVARIC® Crypto Project operates in the DeFi sector, providing decentralized solutions for secure asset management, lending, and staking. Leveraging blockchain technology, the project aims to enhance financial accessibility, transparency, and efficiency in a decentralized ecosystem.",
-    "explorer": "https://bscscan.com/address/0xcb4b65065f9a3146ff7f5af18f4b0e4012f807f6",
-    "research": "https://research.binance.com/en/projects/dai",
-    "type": "NOVARIC",
+    "name": "NOVARIC Token",
     "symbol": "NVX",
+    "type": "BEP20",
     "decimals": 18,
+    "description": "NOVARIC Token powers the NOVARIC ecosystem offering innovative solutions in recruitment, relocation, and digital employment.",
+    "website": "https://novaric.co",
+    "explorer": "https://bscscan.com/token/0xfF6bAeD9D98E8eD07f5Aa0B36C3d7a469fa5BF5e",
     "status": "active",
-    "id": "0xcb4B65065f9a3146FF7F5af18f4B0E4012f807F6",
-    "tags": [
-        "defi",
-        "stablecoin"
-    ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://x.com/novaric_ltd"
-        },
-        {
-            "name": "reddit",
-            "url": "https://www.reddit.com/user/novaric_ltd/m/novaric/"
-        },
-        {
-            "name": "facebook",
-            "url": "https://www.facebook.com/novaric.europe"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://novaric.co/novaric-token-project/"
-        },
-        {
-            "name": "linkedin",
-            "url": "https://www.linkedin.com/company/novaric"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/dai/"
-        }
-    ]
+    "id": "0xfF6bAeD9D98E8eD07f5Aa0B36C3d7a469fa5BF5e"
 }
