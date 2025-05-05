@@ -1,9 +1,9 @@
 {
-    "name": "NOVARIC Token",
+    "name": "NOVARIC® Token",
     "symbol": "NVX",
     "type": "BEP20",
     "decimals": 18,
-    "description": "NOVARIC Token powers the NOVARIC ecosystem offering innovative solutions in recruitment, relocation, and digital employment.",
+    "description": "NOVARIC® Token is a borderless utility token that fuels an interoperable HR-tech ecosystem. Designed to streamline payments, elevate trust, and enhance service value, NOVARIC® Token (NVX) drives innovation across recruitment, employment, and training—vertically and horizontally.",
     "website": "https://novaric.co",
     "explorer": "https://bscscan.com/token/0xfF6bAeD9D98E8eD07f5Aa0B36C3d7a469fa5BF5e",
     "status": "active",
