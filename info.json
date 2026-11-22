@@ -1,11 +1,12 @@
 {
-    "name": "NOVARIC® Token",
+    "name": "NOVARIC® Token (legacy NVX)",
     "symbol": "NVX",
     "type": "BEP20",
     "decimals": 18,
-    "description": "NOVARIC® Token is a borderless utility token that fuels an interoperable HR-tech ecosystem. Designed to streamline payments, elevate trust, and enhance service value, NOVARIC® Token (NVX) drives innovation across recruitment, employment, and training—vertically and horizontally.",
-    "website": "https://novaric.co",
-    "explorer": "https://bscscan.com/token/0xfF6bAeD9D98E8eD07f5Aa0B36C3d7a469fa5BF5e",
-    "status": "active",
-    "id": "0xfF6bAeD9D98E8eD07f5Aa0B36C3d7a469fa5BF5e"
+    "description": "Legacy NVX materials only. This is not the live official NOVARIC® token. The live official token is NVRCX, contract 0x5f95c93DF927FB5C16be333f2E398FA77BdFb2f8. Facts: https://novaric.eu/en/nvrcx/",
+    "website": "https://novaric.eu/en/nvrcx/",
+    "explorer": "https://bscscan.com/token/0x5f95c93DF927FB5C16be333f2E398FA77BdFb2f8",
+    "status": "abandoned",
+    "id": "0xfF6bAeD9D98E8eD07f5Aa0B36C3d7a469fa5BF5e",
+    "comments": "The id field is the legacy NVX contract previously listed in this fork. It is not the live official NVRCX contract. Do not treat this file as a current Trust Wallet listing."
 }
